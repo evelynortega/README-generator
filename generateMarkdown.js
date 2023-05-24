@@ -39,6 +39,13 @@ ${data.contribution}
 
 ## Test Instructions
 ${data.test}
+
+## GitHub
+[${data.github}'s GitHub](https://github.com/${data.github})
+
+
+## Email
+${data.email}
 `;
 }
 
