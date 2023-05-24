@@ -16,8 +16,8 @@ g
 g
 
 ## GitHub
-[evelynortega's GitHub](https://https://github.com/evelynortega)
+[evelynortega's GitHub](https://github.com/evelynortega)
 
 
 ## Email
-g
+<a href="mailto:evelynortega13@gmail.com">evelynortega13@gmail.com</a>

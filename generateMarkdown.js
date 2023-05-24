@@ -45,7 +45,7 @@ ${data.test}
 
 
 ## Email
-${data.email}
+<a href="mailto:${data.email}">${data.email}</a>
 `;
 }
 
