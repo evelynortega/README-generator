@@ -23,7 +23,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What is the title of your project?'
+        message: 'What would you like to add in the usage information section?'
     },
     {
         type: 'input',
